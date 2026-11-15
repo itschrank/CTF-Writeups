@@ -57,6 +57,7 @@ More about me: [www.itschrank.de](https://www.itschrank.de)
 | Room | Difficulty | Topics | Link |
 |------|:----------:|--------|:----:|
 | [Surfer](https://tryhackme.com/room/surfer) | 🟢 Easy | web, weak credentials, SSRF, Burp Suite | [Write-Up](./Surfer/Surfer.md) |
+| [MD2PDF](https://tryhackme.com/room/md2pdf) | 🟢 Easy | web, gobuster, exiftool, SSRF, LFI | [Write-Up](./MD2PDF/md2pdf.md) |
 
 <!--
 Template for new entries:

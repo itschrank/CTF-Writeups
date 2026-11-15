@@ -58,6 +58,7 @@ More about me: [www.itschrank.de](https://www.itschrank.de)
 |------|:----------:|--------|:----:|
 | [Surfer](https://tryhackme.com/room/surfer) | 🟢 Easy | web, weak credentials, SSRF, Burp Suite | [Write-Up](./Surfer/Surfer.md) |
 | [MD2PDF](https://tryhackme.com/room/md2pdf) | 🟢 Easy | web, gobuster, exiftool, SSRF, LFI | [Write-Up](./MD2PDF/md2pdf.md) |
+| [Epoch](https://tryhackme.com/room/epoch) | 🟢 Easy | web, command injection, reverse shell | [Write-Up](./Epoch/epoch.md) |
 
 <!--
 Template for new entries:

@@ -60,6 +60,7 @@ More about me: [www.itschrank.de](https://www.itschrank.de)
 | [MD2PDF](https://tryhackme.com/room/md2pdf) | 🟢 Easy | web, gobuster, exiftool, SSRF, LFI | [Write-Up](./MD2PDF/md2pdf.md) |
 | [Epoch](https://tryhackme.com/room/epoch) | 🟢 Easy | web, command injection, reverse shell | [Write-Up](./Epoch/epoch.md) |
 | [GameZone](https://tryhackme.com/room/gamezone) | 🟢 Easy | OSINT, SQLi, Burp Suite, SQLmap, John the Ripper, SSH tunneling, Metasploit | [Write-Up](./Gamezone/gamezone.md) |
+| [RevilCorp](https://tryhackme.com/room/revilcorp) | 🟡 Medium | DFIR, malware analysis, Redline | [Write-Up](./REvilCorp/revilcorp.md) |
 
 <!--
 Template for new entries:

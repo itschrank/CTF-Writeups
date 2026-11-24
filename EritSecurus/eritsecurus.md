@@ -154,6 +154,11 @@ This gets us onto a second machine that isn't reachable directly from the outsid
 
 <img width="742" height="178" alt="screen10" src="https://github.com/user-attachments/assets/7417c83a-e7c6-4e2b-9ef2-02f394d401ed" />
 
+here is the flag2
+
+<img width="283" height="83" alt="flag2" src="https://github.com/user-attachments/assets/14990b6d-8645-478f-9406-9f17087d3dc6" />
+
+
 
 ---
 

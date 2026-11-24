@@ -61,6 +61,7 @@ More about me: [www.itschrank.de](https://www.itschrank.de)
 | [Epoch](https://tryhackme.com/room/epoch) | 🟢 Easy | web, command injection, reverse shell | [Write-Up](./Epoch/epoch.md) |
 | [GameZone](https://tryhackme.com/room/gamezone) | 🟢 Easy | OSINT, SQLi, Burp Suite, SQLmap, John the Ripper, SSH tunneling, Metasploit | [Write-Up](./Gamezone/gamezone.md) |
 | [RootMe](https://tryhackme.com/room/rrootme) | 🟢 Easy | nmap, gobuster, file upload bypass, SUID privesc, GTFOBins | [Write-Up](./rootme/rootme.md) |
+| [Erit Securus I](https://tryhackme.com/room/eritsecurusi) | 🟢 Easy | nmap, authenticated RCE, web shell, John the Ripper, SSH pivoting, GTFOBins | [Write-Up](.EritSecurus/eritsecurus.md) |
 | [RevilCorp](https://tryhackme.com/room/revilcorp) | 🟡 Medium | DFIR, malware analysis, Redline | [Write-Up](./REvilCorp/revilcorp.md) |
 
 <!--
